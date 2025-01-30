@@ -7,3 +7,4 @@
 - [ ] 4차 목표: 에셋 적용해서 만들기
 
 참고: https://www.youtube.com/@REE-Animation/videos
+진행상황: 2,3층 제작 중
